@@ -51,6 +51,13 @@ The application's features include:
 <h2> Search Doctor Screen </h2>
 <img src="https://raw.githubusercontent.com/skarthik7/Qify/master/screenshots/5%20Search%20Doctor%20Screen.png?token=AO4T4VQZ7ZICO7VCPTOQBNTABNNTE" height="800">
 
+<h2> Booking Appointment Demonstration </h2>
+<img src="screenshots/PatientDemonstration.gif" height="800">
+
+<h2> Accepting/Rejecting/Forwarding Demonstration </h2>
+<img src="screenshots/DoctorDemonstration.gif" height="800">
+
+
 
 
 
